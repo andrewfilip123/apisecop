@@ -1,0 +1,19 @@
+meter{
+    width: 100%
+}
+
+.documentos {
+    background-color:lightgray;
+    padding: 5px;
+    margin: 5% 20%;
+
+}
+
+.documentos-medidor{
+    padding: 30px;
+    text-align:center;
+}
+
+.documentos-submit{
+    text-align:center
+}

@@ -1,0 +1,12 @@
+.nuevoContrato{
+    background-color: dimgray;
+    padding: 10px
+}
+
+.nuevoContrato-input{
+    display: flex;
+    flex-direction: column;
+    margin:1% 20%;
+    padding: 20px;
+    background-color:lightgray
+}

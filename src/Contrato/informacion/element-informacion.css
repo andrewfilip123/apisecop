@@ -1,0 +1,52 @@
+.button {
+    background-color: ghostwhite;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+}
+
+    .button:hover {
+        color: #1883ba;
+        background-color: darkgray;
+    }
+
+
+.informacion-titulo{
+    background-color:dimgray;
+    text-align:center;
+    padding: 10px
+}
+
+.informacion-datosGenerales {
+    background-color: darkgray;
+    padding: 30px 50px
+}
+
+
+.contratos-tabla {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 80%;
+    margin: auto;
+}
+    .contratos-tabla th {
+        border: 1px solid #dddddd;
+        background-color: black;
+        color: white;
+        padding: 10px;
+    }
+
+
+    .contratos-tabla td {
+        border: 1px solid #dddddd;
+        text-align: left;
+        padding: 8px;
+    }
+
+    .contratos-tabla tr {
+        background: White;
+        font-size: 0.8em;
+    }
+
+
+    

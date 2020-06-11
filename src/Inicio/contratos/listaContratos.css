@@ -1,0 +1,55 @@
+button, input {
+    padding: 5px;
+    margin: 5px 0px;
+}
+
+.contratos{
+    background-color: darkgray;
+    text-align:center;
+    padding: 30px
+}
+
+    #tablaContratos {
+        font-family: arial, sans-serif;
+        border-collapse: collapse;
+        width: 80%;
+        margin: auto;
+    }
+        #tablaContratos th {
+            border: 1px solid #dddddd;
+            background-color: black;
+            color: white;
+            padding: 10px;
+        }
+
+        #tablaContratos tr:nth-child(even) {
+            background: red;
+        }
+
+        #tablaContratos td {
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 8px;
+        }
+
+        #tablaContratos tr.noSearch {
+            background: White;
+            font-size: 0.8em;
+        }
+
+        #tablaContratos tr.noSearch td {
+            
+            padding-top: 10px;
+            text-align: center;
+        }
+
+        .hide {
+            display: none;
+        }
+
+        .red {
+            color: red;
+        }
+
+
+

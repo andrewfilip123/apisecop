@@ -1,0 +1,36 @@
+h2 {
+    text-align:center;
+}
+
+.opciones {
+    display:flex;
+    flex-direction: row;
+    margin: 0% 10%
+}
+
+.opciones-fases {
+    background-color: green;
+    width: 100%;
+    margin: auto;
+    padding: 10px
+}
+
+    .opciones-fases:hover {
+        color: #1883ba;
+        background-color: darkgray;
+    }
+
+.precon {
+    padding: 20px;
+    background-color: darkslategrey
+}
+
+.con {
+    padding: 20px;
+    background-color: dimgray
+}
+
+.postcon {
+    padding: 20px;
+    background-color: gainsboro
+}
